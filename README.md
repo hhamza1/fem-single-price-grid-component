@@ -10,8 +10,6 @@ This is a solution to the [single price grid component challenge on Frontend Men
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -29,10 +27,7 @@ Users should be able to:
 ![Mobile View](./screenshots/mobile-view.png)
 
 #### Desktop View
-![Desktop View]()
-
-#### Desktop View - Active state
-![Desktop View - Active state]()
+![Desktop View](./screenshots/desktop-view.png)
 
 ### Links
 
@@ -41,11 +36,6 @@ Users should be able to:
 
 ## My process
 
-### What I learned
-- TBA
-### Useful resources
-
-- TBA
 ### Built with
 
 - HTML
