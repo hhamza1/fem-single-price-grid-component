@@ -42,6 +42,7 @@ Users should be able to:
 - CSS
 - Mobile-first workflow
 - Grid
+- Flexbox
 
 ## Author
 
