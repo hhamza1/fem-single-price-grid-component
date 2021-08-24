@@ -135,7 +135,27 @@ button {
     opacity: .15;
 }
 
-
-
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: var(--primary-cyan); font-size: inherit; }
+
+
+@media (min-width: 768px) {
+
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        max-width: 635px;
+    }
+
+    .section-1 {
+        grid-column: 1 / 3;
+    }
+}
